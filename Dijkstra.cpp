@@ -11,7 +11,7 @@ using namespace std;
 *	\brief Dijkstra's algorithm immediate implementation
 *	\param **GR - adjacency matrix of the graph
 *	\param V - number of vertexes
-*	<br>*distance - array of distances from the 1st vertes to others
+*	<br>*distance - array of distances from the 1st vertex to others
 *	<br>*visited - array of visited vertexes
 */
 void Dijkstra(int** GR, int V) {
